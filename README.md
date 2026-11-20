@@ -7,19 +7,19 @@ Test repository created from a template by BruzIT GitHub Organization as Code.
 
 ## Installation and Setup
 
-Created from the [bruzit-test/template repository](https://github.com/bruzit-test/template) by [BruzIT GitHub Organization as Code](https://github.com/bruzit/github-organization-as-code); nothing to install.
+Nothing to install: [BruzIT GitHub Organization as Code](https://github.com/bruzit/github-organization-as-code) created this repository from the [bruzit-test/template repository](https://github.com/bruzit-test/template).
 
 ## Usage
 
-Compare files, settings and rulesets with the template to verify template use.
+To verify template use, compare files, settings and rulesets with the template.
 
 ## Support
 
-Community, best effort; [open a GitHub issue](../../issues).
+[Open a GitHub issue](../../issues). I answer best effort, as a community project.
 
 ## Contributing
 
-Open a pull request to `main`. Commits follow the [Conventional Commits 1.0.0 specification](https://www.conventionalcommits.org/en/v1.0.0/), lowercase subject.
+Open a pull request to `main`. Write commits per the [Conventional Commits 1.0.0 specification](https://www.conventionalcommits.org/en/v1.0.0/), with a lowercase subject.
 
 ## License and Copyright
 
